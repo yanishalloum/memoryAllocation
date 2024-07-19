@@ -1,6 +1,6 @@
 # Memory allocation
 
-This small project aims at dynamically allocate memory. We consider N blocks of 8 bytes to stock memory.
+This small project aims at dynamically allocating memory. We consider N blocks of 8 bytes to stock memory.
 
 # Guidelines
 
